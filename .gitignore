@@ -1,6 +1,7 @@
 .env
 data/python-docs-text
-data/aws-case-studies-and-blogs/files
+data/*/files
+data/*/all_files
 
 chromadb/
 
