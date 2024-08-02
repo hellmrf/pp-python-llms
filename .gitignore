@@ -1,5 +1,7 @@
 .env
 data/python-docs-text
+data/aws-case-studies-and-blogs/files
+
 chromadb/
 
 # Byte-compiled / optimized / DLL files
