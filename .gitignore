@@ -1,5 +1,6 @@
 .env
-
+data/python-docs-text
+chromadb/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
