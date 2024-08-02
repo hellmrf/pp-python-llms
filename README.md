@@ -7,10 +7,13 @@ Usaremos neste tutorial os seguintes modelos (LLMs):
     - 🗝️ [Chaves de API](https://platform.openai.com/api-keys) (pegue sua chave aqui)
     - 📄 [Documentação](https://platform.openai.com/docs/overview)
     - 💰 Necessário recarregar a conta em no mínimo US$ 5,00 (R$ 28,76 na data da escrita deste documento);
+      - Observe que o modelo `gpt-4o-mini` é consideravelmente mais barato do que a versão completa `gpt-4o`.
 - **Google Gemini 1.5** (gratuito para testes)
     - 🗝️ [Google AI Studio](https://aistudio.google.com/app/prompts/new_chat) (pegue sua chave aqui)
     - 📄 [Documentação](https://ai.google.dev/gemini-api/docs)
-    - 💰 Gratuito, mas com limites no número de **R**equisições **P**or **M**inuto (2 RPM para o Gemini 1.5 Pro, 15 RPM para o Gemini 1.5 Flash)
+    - 💰 Gratuito, mas com limites no número de **R**equisições **P**or **M**inuto (RPM)
+      - 2 RPM para o Gemini 1.5 Pro;
+      - 15 RPM para o Gemini 1.5 Flash.
 
 ## Configurando o ambiente
 
